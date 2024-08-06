@@ -1,6 +1,6 @@
 # The worlds fastest browser comes to Android
 
-# Current requirements: Android 9 and newer, a device with at least 1GB of RAM.
+# Current requirements: Android 9 and newer.
 
 We are happy to improve the experience.
 
